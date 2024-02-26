@@ -1,6 +1,6 @@
 esta es la practica 2 para repasar lo aprendido
 
 mi nombre es Rubio Andres
-
+mi edad es 28 y quiero aprender a programar
 
 de git y git hub 
