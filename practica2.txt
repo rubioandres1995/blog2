@@ -6,3 +6,5 @@ mi edad es 28 y quiero aprender a programar
 de git y git hub 
 
 mi vida es feliz
+
+quiero hacer una especializacion en software
